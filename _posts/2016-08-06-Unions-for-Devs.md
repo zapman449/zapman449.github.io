@@ -11,6 +11,7 @@ tags: [it, devops, politics]
 
 Yesterday a slack team I followed had an interesting discussion of unions for developers.  All the usual
 suspects came out:
+
 * Those who think unions are a cure for several ills plaguing society
 * Those who think unions are a massive drain on society
 * Those who tried to get the discussion out of these well worn trenches.
