@@ -33,7 +33,7 @@ corporations viewed most people as interchangeable, and worse job mobility was f
 So the people were treated like trash.
 
 As these forces sharpened, the only way the people could fight back was to organize themselves into a larger
-unit.  Individually, they were replaceable.  But when a plurality of workers could organize, they found
+unit.  Individually, they were replaceable but when a plurality of workers could organize, they found
 improved leverage.  These unions provided society with huge boons: Child labor ceased to be a thing.  Wages
 increased significantly, and life got better.
 
